@@ -229,5 +229,12 @@
         "handle": "@orca.resto.cafe",
         "url": "https://www.instagram.com/orca.resto.cafe/",
         "description": ""
+    },
+    {
+        "name": "Shaghaf Cofe",
+        "platform": "Instagram",
+        "handle": "@shaghaf.cofe",
+        "url": "https://www.instagram.com/shaghaf.cofe/",
+        "description": ""
     }
 ]
