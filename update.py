@@ -58,9 +58,15 @@ def commit_changes():
     os.system("git commit -m 'Update restaurant list'")
 
 if __name__ == "__main__":
+    if "--regenerate" in sys.argv:
+        regenerate_markdown_table()
+        print("Markdown table regenerated.")
+        sys.exit(0)
+
     urls = sys.argv[1:]
     if not urls:
         print("Usage: python update.py <url1> <url2> ...")
+        print("Or: python update.py --regenerate")
         sys.exit(1)
 
     new_restaurants = []

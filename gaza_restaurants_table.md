@@ -34,6 +34,5 @@
 | HKA Cafe | Instagram | [@hka.cafe](https://instagram.com/hka.cafe) | Cafe |
 | Al Nabulsi | Instagram | [@alnabulsi_ps](https://instagram.com/alnabulsi_ps) | Traditional Palestinian food |
 | Tulip Flowers Gaza | Instagram | [@tulipflowers.gaza](https://instagram.com/tulipflowers.gaza) | Cafe with floral theme |
-| Orca Resto Cafe | Instagram | [@orca.resto.cafe](https://www.instagram.com/orca.resto.cafe/) |  |
-| Shaghaf Cofe | Instagram | [@shaghaf.cofe](https://www.instagram.com/shaghaf.cofe/) |  |
-| Diafa \ | Instagram | [@diafa_\](https://www.instagram.com/diafa_\?igsh\=MXF3M29oZzg0OHRxdA\=\=) |  |
+| Shaghaf Cofe | Instagram | [@shaghaf.cofe](https://www.instagram.com/shaghaf.cofe) |  |
+| Diafa | Instagram | [@diafa_](https://www.instagram.com/diafa_) |  |

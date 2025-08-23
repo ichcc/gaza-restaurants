@@ -224,24 +224,17 @@
         "description": "Cafe with floral theme"
     },
     {
-        "name": "Orca Resto Cafe",
-        "platform": "Instagram",
-        "handle": "@orca.resto.cafe",
-        "url": "https://www.instagram.com/orca.resto.cafe/",
-        "description": ""
-    },
-    {
         "name": "Shaghaf Cofe",
         "platform": "Instagram",
         "handle": "@shaghaf.cofe",
-        "url": "https://www.instagram.com/shaghaf.cofe/",
+        "url": "https://www.instagram.com/shaghaf.cofe",
         "description": ""
     },
     {
-        "name": "Diafa \\",
+        "name": "Diafa",
         "platform": "Instagram",
-        "handle": "@diafa_\\",
-        "url": "https://www.instagram.com/diafa_\\?igsh\\=MXF3M29oZzg0OHRxdA\\=\\=",
+        "handle": "@diafa_",
+        "url": "https://www.instagram.com/diafa_",
         "description": ""
     }
 ]
