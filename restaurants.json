@@ -1,35 +1,233 @@
-
 [
-    { "name": "Mekato Cafe", "platform": "Instagram", "handle": "@mekato.cafee", "url": "https://instagram.com/mekato.cafee", "description": "Cafe in Gaza" },
-    { "name": "Aman Cafe", "platform": "Instagram", "handle": "@aman_caffe", "url": "https://instagram.com/aman_caffe", "description": "Cafe in Gaza" },
-    { "name": "Soul Coffee", "platform": "Instagram", "handle": "@soul_coffee1", "url": "https://instagram.com/soul_coffee1", "description": "Coffee shop" },
-    { "name": "Arabesco 2025", "platform": "Instagram", "handle": "@arabesco_2025", "url": "https://instagram.com/arabesco_2025", "description": "Restaurant/Cafe" },
-    { "name": "Athar Cafe Gaza", "platform": "Instagram", "handle": "@athar.cafe.gaza", "url": "https://instagram.com/athar.cafe.gaza", "description": "Traditional cafe" },
-    { "name": "Aaedali", "platform": "TikTok", "handle": "@aaedali0", "url": "https://tiktok.com/@aaedali0", "description": "Food content creator" },
-    { "name": "Fadi Sultan", "platform": "Instagram", "handle": "@fadi_sultan8", "url": "https://instagram.com/fadi_sultan8", "description": "Restaurant/Food business" },
-    { "name": "Yehia Saqalah", "platform": "Instagram", "handle": "@yehia_saqalah", "url": "https://instagram.com/yehia_saqalah", "description": "Food business" },
-    { "name": "New Gaza", "platform": "Instagram", "handle": "@new_gazaa", "url": "https://instagram.com/new_gazaa", "description": "Restaurant" },
-    { "name": "Orca Resto Cafe", "platform": "Instagram", "handle": "@orca.resto.cafe", "url": "https://instagram.com/orca.resto.cafe", "description": "Restaurant and cafe" },
-    { "name": "Modern Cafe", "platform": "Instagram", "handle": "@modern.cafe", "url": "https://instagram.com/modern.cafe", "description": "Modern style cafe" },
-    { "name": "Bee Hub and Cafe", "platform": "Instagram", "handle": "@beehubandcafe", "url": "https://instagram.com/beehubandcafe", "description": "Cafe and workspace" },
-    { "name": "Ahmed Ali Kitchen", "platform": "Instagram", "handle": "@ahmed_ali_kitchen", "url": "https://instagram.com/ahmed_ali_kitchen", "description": "Home cooking/kitchen" },
-    { "name": "Sobhe Sayyed", "platform": "Instagram", "handle": "@sobhe_sayyed", "url": "https://instagram.com/sobhe_sayyed", "description": "Food business" },
-    { "name": "Lava Cafe Official", "platform": "Instagram", "handle": "@lava.cafe.official", "url": "https://instagram.com/lava.cafe.official", "description": "Cafe chain" },
-    { "name": "Dr. Mo5tar", "platform": "Instagram", "handle": "@dr.mo5tar_", "url": "https://instagram.com/dr.mo5tar_", "description": "Food business" },
-    { "name": "Ghost Cafe Gaza", "platform": "Instagram", "handle": "@ghosncafe.gaza", "url": "https://instagram.com/ghosncafe.gaza", "description": "Themed cafe" },
-    { "name": "Mohammed Salama", "platform": "TikTok", "handle": "@mohammedsalamaabuabdullah", "url": "https://tiktok.com/@mohammedsalamaabuabdullah", "description": "Food content creator" },
-    { "name": "El Garden Cafe", "platform": "Instagram", "handle": "@el.garden.cafe", "url": "https://instagram.com/el.garden.cafe", "description": "Garden-themed cafe" },
-    { "name": "Twix Cafe 2024", "platform": "Instagram", "handle": "@twix_cafe.2024", "url": "https://instagram.com/twix_cafe.2024", "description": "Modern cafe" },
-    { "name": "Chef Samah Haboub Sushi", "platform": "Instagram", "handle": "@chef.samahhaboub_sushi", "url": "https://instagram.com/chef.samahhaboub_sushi", "description": "Sushi restaurant" },
-    { "name": "3BJ.3", "platform": "Instagram", "handle": "@3bj.3", "url": "https://instagram.com/3bj.3", "description": "Restaurant" },
-    { "name": "Ma7moud Market", "platform": "Instagram", "handle": "@ma7moud_market", "url": "https://instagram.com/ma7moud_market", "description": "Food market/grocery" },
-    { "name": "Hadeel Hammad", "platform": "Instagram", "handle": "@hadeel.hammad97", "url": "https://instagram.com/hadeel.hammad97", "description": "Food content creator" },
-    { "name": "M_Oslah", "platform": "Instagram", "handle": "@m_oslah", "url": "https://instagram.com/m_oslah", "description": "Food business" },
-    { "name": "Blackstone Cafe 2025", "platform": "Instagram", "handle": "@blackstonecafe2025", "url": "https://instagram.com/blackstonecafe2025", "description": "Modern cafe" },
-    { "name": "Taghreed Abdullah", "platform": "Instagram", "handle": "@taghreed.abdullah.ps", "url": "https://instagram.com/taghreed.abdullah.ps", "description": "Food content creator" },
-    { "name": "Bolbol Extra", "platform": "Instagram", "handle": "@bolbol.extra", "url": "https://instagram.com/bolbol.extra", "description": "Food business" },
-    { "name": "Asemarest", "platform": "Instagram", "handle": "@asemarest", "url": "https://instagram.com/asemarest", "description": "Restaurant" },
-    { "name": "HKA Cafe", "platform": "Instagram", "handle": "@hka.cafe", "url": "https://instagram.com/hka.cafe", "description": "Cafe" },
-    { "name": "Al Nabulsi", "platform": "Instagram", "handle": "@alnabulsi_ps", "url": "https://instagram.com/alnabulsi_ps", "description": "Traditional Palestinian food" },
-    { "name": "Tulip Flowers Gaza", "platform": "Instagram", "handle": "@tulipflowers.gaza", "url": "https://instagram.com/tulipflowers.gaza", "description": "Cafe with floral theme" }
+    {
+        "name": "Mekato Cafe",
+        "platform": "Instagram",
+        "handle": "@mekato.cafee",
+        "url": "https://instagram.com/mekato.cafee",
+        "description": "Cafe in Gaza"
+    },
+    {
+        "name": "Aman Cafe",
+        "platform": "Instagram",
+        "handle": "@aman_caffe",
+        "url": "https://instagram.com/aman_caffe",
+        "description": "Cafe in Gaza"
+    },
+    {
+        "name": "Soul Coffee",
+        "platform": "Instagram",
+        "handle": "@soul_coffee1",
+        "url": "https://instagram.com/soul_coffee1",
+        "description": "Coffee shop"
+    },
+    {
+        "name": "Arabesco 2025",
+        "platform": "Instagram",
+        "handle": "@arabesco_2025",
+        "url": "https://instagram.com/arabesco_2025",
+        "description": "Restaurant/Cafe"
+    },
+    {
+        "name": "Athar Cafe Gaza",
+        "platform": "Instagram",
+        "handle": "@athar.cafe.gaza",
+        "url": "https://instagram.com/athar.cafe.gaza",
+        "description": "Traditional cafe"
+    },
+    {
+        "name": "Aaedali",
+        "platform": "TikTok",
+        "handle": "@aaedali0",
+        "url": "https://tiktok.com/@aaedali0",
+        "description": "Food content creator"
+    },
+    {
+        "name": "Fadi Sultan",
+        "platform": "Instagram",
+        "handle": "@fadi_sultan8",
+        "url": "https://instagram.com/fadi_sultan8",
+        "description": "Restaurant/Food business"
+    },
+    {
+        "name": "Yehia Saqalah",
+        "platform": "Instagram",
+        "handle": "@yehia_saqalah",
+        "url": "https://instagram.com/yehia_saqalah",
+        "description": "Food business"
+    },
+    {
+        "name": "New Gaza",
+        "platform": "Instagram",
+        "handle": "@new_gazaa",
+        "url": "https://instagram.com/new_gazaa",
+        "description": "Restaurant"
+    },
+    {
+        "name": "Orca Resto Cafe",
+        "platform": "Instagram",
+        "handle": "@orca.resto.cafe",
+        "url": "https://instagram.com/orca.resto.cafe",
+        "description": "Restaurant and cafe"
+    },
+    {
+        "name": "Modern Cafe",
+        "platform": "Instagram",
+        "handle": "@modern.cafe",
+        "url": "https://instagram.com/modern.cafe",
+        "description": "Modern style cafe"
+    },
+    {
+        "name": "Bee Hub and Cafe",
+        "platform": "Instagram",
+        "handle": "@beehubandcafe",
+        "url": "https://instagram.com/beehubandcafe",
+        "description": "Cafe and workspace"
+    },
+    {
+        "name": "Ahmed Ali Kitchen",
+        "platform": "Instagram",
+        "handle": "@ahmed_ali_kitchen",
+        "url": "https://instagram.com/ahmed_ali_kitchen",
+        "description": "Home cooking/kitchen"
+    },
+    {
+        "name": "Sobhe Sayyed",
+        "platform": "Instagram",
+        "handle": "@sobhe_sayyed",
+        "url": "https://instagram.com/sobhe_sayyed",
+        "description": "Food business"
+    },
+    {
+        "name": "Lava Cafe Official",
+        "platform": "Instagram",
+        "handle": "@lava.cafe.official",
+        "url": "https://instagram.com/lava.cafe.official",
+        "description": "Cafe chain"
+    },
+    {
+        "name": "Dr. Mo5tar",
+        "platform": "Instagram",
+        "handle": "@dr.mo5tar_",
+        "url": "https://instagram.com/dr.mo5tar_",
+        "description": "Food business"
+    },
+    {
+        "name": "Ghost Cafe Gaza",
+        "platform": "Instagram",
+        "handle": "@ghosncafe.gaza",
+        "url": "https://instagram.com/ghosncafe.gaza",
+        "description": "Themed cafe"
+    },
+    {
+        "name": "Mohammed Salama",
+        "platform": "TikTok",
+        "handle": "@mohammedsalamaabuabdullah",
+        "url": "https://tiktok.com/@mohammedsalamaabuabdullah",
+        "description": "Food content creator"
+    },
+    {
+        "name": "El Garden Cafe",
+        "platform": "Instagram",
+        "handle": "@el.garden.cafe",
+        "url": "https://instagram.com/el.garden.cafe",
+        "description": "Garden-themed cafe"
+    },
+    {
+        "name": "Twix Cafe 2024",
+        "platform": "Instagram",
+        "handle": "@twix_cafe.2024",
+        "url": "https://instagram.com/twix_cafe.2024",
+        "description": "Modern cafe"
+    },
+    {
+        "name": "Chef Samah Haboub Sushi",
+        "platform": "Instagram",
+        "handle": "@chef.samahhaboub_sushi",
+        "url": "https://instagram.com/chef.samahhaboub_sushi",
+        "description": "Sushi restaurant"
+    },
+    {
+        "name": "3BJ.3",
+        "platform": "Instagram",
+        "handle": "@3bj.3",
+        "url": "https://instagram.com/3bj.3",
+        "description": "Restaurant"
+    },
+    {
+        "name": "Ma7moud Market",
+        "platform": "Instagram",
+        "handle": "@ma7moud_market",
+        "url": "https://instagram.com/ma7moud_market",
+        "description": "Food market/grocery"
+    },
+    {
+        "name": "Hadeel Hammad",
+        "platform": "Instagram",
+        "handle": "@hadeel.hammad97",
+        "url": "https://instagram.com/hadeel.hammad97",
+        "description": "Food content creator"
+    },
+    {
+        "name": "M_Oslah",
+        "platform": "Instagram",
+        "handle": "@m_oslah",
+        "url": "https://instagram.com/m_oslah",
+        "description": "Food business"
+    },
+    {
+        "name": "Blackstone Cafe 2025",
+        "platform": "Instagram",
+        "handle": "@blackstonecafe2025",
+        "url": "https://instagram.com/blackstonecafe2025",
+        "description": "Modern cafe"
+    },
+    {
+        "name": "Taghreed Abdullah",
+        "platform": "Instagram",
+        "handle": "@taghreed.abdullah.ps",
+        "url": "https://instagram.com/taghreed.abdullah.ps",
+        "description": "Food content creator"
+    },
+    {
+        "name": "Bolbol Extra",
+        "platform": "Instagram",
+        "handle": "@bolbol.extra",
+        "url": "https://instagram.com/bolbol.extra",
+        "description": "Food business"
+    },
+    {
+        "name": "Asemarest",
+        "platform": "Instagram",
+        "handle": "@asemarest",
+        "url": "https://instagram.com/asemarest",
+        "description": "Restaurant"
+    },
+    {
+        "name": "HKA Cafe",
+        "platform": "Instagram",
+        "handle": "@hka.cafe",
+        "url": "https://instagram.com/hka.cafe",
+        "description": "Cafe"
+    },
+    {
+        "name": "Al Nabulsi",
+        "platform": "Instagram",
+        "handle": "@alnabulsi_ps",
+        "url": "https://instagram.com/alnabulsi_ps",
+        "description": "Traditional Palestinian food"
+    },
+    {
+        "name": "Tulip Flowers Gaza",
+        "platform": "Instagram",
+        "handle": "@tulipflowers.gaza",
+        "url": "https://instagram.com/tulipflowers.gaza",
+        "description": "Cafe with floral theme"
+    },
+    {
+        "name": "Orca Resto Cafe",
+        "platform": "Instagram",
+        "handle": "@orca.resto.cafe",
+        "url": "https://www.instagram.com/orca.resto.cafe/",
+        "description": ""
+    }
 ]

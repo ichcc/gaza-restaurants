@@ -17,7 +17,7 @@
 | Ahmed Ali Kitchen | Instagram | [@ahmed_ali_kitchen](https://instagram.com/ahmed_ali_kitchen) | Home cooking/kitchen |
 | Sobhe Sayyed | Instagram | [@sobhe_sayyed](https://instagram.com/sobhe_sayyed) | Food business |
 | Lava Cafe Official | Instagram | [@lava.cafe.official](https://instagram.com/lava.cafe.official) | Cafe chain |
-| Dr. Mo5tar | Instagram | [@dr.mo5tar\_](https://instagram.com/dr.mo5tar_) | Food business |
+| Dr. Mo5tar | Instagram | [@dr.mo5tar_](https://instagram.com/dr.mo5tar_) | Food business |
 | Ghost Cafe Gaza | Instagram | [@ghosncafe.gaza](https://instagram.com/ghosncafe.gaza) | Themed cafe |
 | Mohammed Salama | TikTok | [@mohammedsalamaabuabdullah](https://tiktok.com/@mohammedsalamaabuabdullah) | Food content creator |
 | El Garden Cafe | Instagram | [@el.garden.cafe](https://instagram.com/el.garden.cafe) | Garden-themed cafe |
@@ -34,3 +34,4 @@
 | HKA Cafe | Instagram | [@hka.cafe](https://instagram.com/hka.cafe) | Cafe |
 | Al Nabulsi | Instagram | [@alnabulsi_ps](https://instagram.com/alnabulsi_ps) | Traditional Palestinian food |
 | Tulip Flowers Gaza | Instagram | [@tulipflowers.gaza](https://instagram.com/tulipflowers.gaza) | Cafe with floral theme |
+| Orca Resto Cafe | Instagram | [@orca.resto.cafe](https://www.instagram.com/orca.resto.cafe/) |  |
