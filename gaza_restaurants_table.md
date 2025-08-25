@@ -40,3 +40,4 @@
 | Zone Coffee 2025 | Instagram | [@zone_coffee_2025](https://www.instagram.com/zone_coffee_2025) |  |
 | Drkhaledfouad | Instagram | [@drkhaledfouad](https://www.instagram.com/drkhaledfouad) |  |
 | Moh Z Co | Instagram | [@moh_z_co](https://www.instagram.com/moh_z_co) |  |
+| Pistachio Gaza | Instagram | [@pistachio.gaza](https://www.instagram.com/pistachio.gaza) |  |
