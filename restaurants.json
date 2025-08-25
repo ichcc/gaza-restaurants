@@ -271,5 +271,12 @@
         "handle": "@pistachio.gaza",
         "url": "https://www.instagram.com/pistachio.gaza",
         "description": ""
+    },
+    {
+        "name": "Nutella Sweet Cafe",
+        "platform": "Instagram",
+        "handle": "@nutella_sweet_cafe",
+        "url": "https://www.instagram.com/nutella_sweet_cafe/",
+        "description": ""
     }
 ]
