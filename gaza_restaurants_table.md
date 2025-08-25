@@ -42,3 +42,4 @@
 | Moh Z Co | Instagram | [@moh_z_co](https://www.instagram.com/moh_z_co) |  |
 | Pistachio Gaza | Instagram | [@pistachio.gaza](https://www.instagram.com/pistachio.gaza) |  |
 | Nutella Sweet Cafe | Instagram | [@nutella_sweet_cafe](https://www.instagram.com/nutella_sweet_cafe/) |  |
+| Thailandi Gaza | Instagram | [@thailandi_gaza](https://www.instagram.com/thailandi_gaza/) |  |

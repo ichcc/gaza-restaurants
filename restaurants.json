@@ -278,5 +278,12 @@
         "handle": "@nutella_sweet_cafe",
         "url": "https://www.instagram.com/nutella_sweet_cafe/",
         "description": ""
+    },
+    {
+        "name": "Thailandi Gaza",
+        "platform": "Instagram",
+        "handle": "@thailandi_gaza",
+        "url": "https://www.instagram.com/thailandi_gaza/",
+        "description": ""
     }
 ]
